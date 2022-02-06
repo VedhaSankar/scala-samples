@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/vedha/code/fries/scala-samples/csv-processing/target/scala-3.1.1/csv-processing_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CSVDemo.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vedha/code/fries/scala-samples/csv-processing/target/scala-3.1.1/classes/CSVDemo.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CSVDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vedha/code/fries/scala-samples/csv-processing/target/scala-3.1.1/classes/CSVDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CSVDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vedha/code/fries/scala-samples/csv-processing/target/scala-3.1.1/classes/CSVDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

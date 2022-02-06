@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/vedha/code/fries/scala-samples/csv-processing/src/main/scala/Main.scala:11:11 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m11 |[0m[33mimport[0m org.apache.spark.sql.SQLContext[0m
+[0m[[0m[31merror[0m] [0m[0m   |       [31m^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |       value apache is not a member of org[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/vedha/code/fries/scala-samples/csv-processing/src/main/scala/Main.scala:12:11 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m12 |[0m[33mimport[0m org.apache.spark.{SparkConf, SparkContext}[0m
+[0m[[0m[31merror[0m] [0m[0m   |       [31m^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |       value apache is not a member of org[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
