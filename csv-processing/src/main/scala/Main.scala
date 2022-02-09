@@ -12,6 +12,7 @@ import org.*
 import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
 object ReadCSVFile {
+  println("Hello")
   case class Subject(oops:Int, ds:Int)
   def main(args : Array[String]): Unit = {
     var conf = new SparkConf().setAppName("Read CSV File").setMaster("local[*]")
