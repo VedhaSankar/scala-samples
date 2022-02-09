@@ -1,0 +1,4 @@
+[debug] [scala-samples-build] Classpath dependencies List()
+[debug] [scala-samples-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala-samples-build' to '/home/vedha/code/fries/scala-samples/project/.bloop/scala-samples-build.json'
+[success] Generated .bloop/scala-samples-build.json
